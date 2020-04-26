@@ -1,0 +1,10 @@
+[package]
+name = "neonet"
+version = "0.1.0"
+authors = ["Kneelawk <kneelawk@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "^1.4.0"
+nannou = "^0.14.0"
+rand = "^0.7.3"
