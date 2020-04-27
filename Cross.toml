@@ -1,0 +1,5 @@
+[build.env]
+passthrough = [
+    "TRAVIS",
+    "PKG_CONFIG_PATH",
+]
