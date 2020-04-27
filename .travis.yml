@@ -49,7 +49,6 @@ branches:
   only:
     - /^v\d+\.\d+\.\d+.*$/
     - master
-    - linux-build
 
 notifications:
   email:
