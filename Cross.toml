@@ -1,5 +1,2 @@
-[target.i686-unknown-linux-gnu]
-image = "kneelawk/cross-custom:i686-unknown-linux-gnu-0.2.0"
-
 [target.x86_64-unknown-linux-gnu]
 image = "kneelawk/cross-custom:x86_64-unknown-linux-gnu-0.2.0"
